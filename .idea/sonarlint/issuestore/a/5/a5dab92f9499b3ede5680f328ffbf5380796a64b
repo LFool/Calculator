@@ -1,0 +1,12 @@
+
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(òæŞ§øÿÿÿÿ8²û™Ò-
+[squid:S3518X"8Make sure "b1" can't be zero before doing this division.(Î»À–ùÿÿÿÿ8†”û™Ò-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ê–ÿ8†”û™Ò-
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÉˆ‘úÿÿÿÿ8†”û™Ò-
+msquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê–ÿ8†”û™Ò-
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(ÕŠ‰á8†”û™Ò-
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.( à”·8†”û™Ò-
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(üÚ¦Êúÿÿÿÿ8†”û™Ò-
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ô—Éæøÿÿÿÿ8†”û™Ò-
+nsquid:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Óå­°8†”û™Ò-
+ssquid:S1149@"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(÷ÃÈ¶üÿÿÿÿ8†”û™Ò-
